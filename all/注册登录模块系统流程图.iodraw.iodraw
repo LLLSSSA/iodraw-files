@@ -40,6 +40,9 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-15" value="校验不通过，提示修改信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-16" value="校验通过，保存用户信息到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
