@@ -28,6 +28,12 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-11" value="登录成功，进入平台首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-12" value="用户选择注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-13" value="填写账号、密码、手机号等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
