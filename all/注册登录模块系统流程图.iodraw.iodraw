@@ -19,6 +19,9 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-6" value="查找数据库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-9" value="账号不存在或者密码错误，提示登录失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
