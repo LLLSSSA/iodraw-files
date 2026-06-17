@@ -67,6 +67,12 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-13" value="填写账号、密码、手机号等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-14" target="8S7hwby8C9GvgRYkh6Hh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-14" target="8S7hwby8C9GvgRYkh6Hh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-14" value="信息校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="370" width="80" height="80" as="geometry" />
         </mxCell>
