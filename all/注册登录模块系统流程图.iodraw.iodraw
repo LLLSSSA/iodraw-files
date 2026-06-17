@@ -39,6 +39,11 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-6" target="8S7hwby8C9GvgRYkh6Hh-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8S7hwby8C9GvgRYkh6Hh-26">
+          <mxGeometry x="0.033" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-6" target="8S7hwby8C9GvgRYkh6Hh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,7 +53,7 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-9" target="8S7hwby8C9GvgRYkh6Hh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8S7hwby8C9GvgRYkh6Hh-9" value="账号不存在或者密码错误，提示登录失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-9" value="账号不存在或密码错误，提示登录失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-10" target="8S7hwby8C9GvgRYkh6Hh-4">
