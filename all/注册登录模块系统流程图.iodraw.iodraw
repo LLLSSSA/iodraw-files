@@ -16,8 +16,8 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-4" value="输入账号和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8S7hwby8C9GvgRYkh6Hh-5" value="查找数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-6" value="查找数据库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
