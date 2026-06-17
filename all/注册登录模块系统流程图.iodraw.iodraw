@@ -53,7 +53,7 @@
           <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-11" value="登录成功，进入平台首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-12" target="8S7hwby8C9GvgRYkh6Hh-13">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="8S7hwby8C9GvgRYkh6Hh-17" value="注册成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8S7hwby8C9GvgRYkh6Hh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.562;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-3" target="8S7hwby8C9GvgRYkh6Hh-4">
+        <mxCell id="8S7hwby8C9GvgRYkh6Hh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8S7hwby8C9GvgRYkh6Hh-3" target="8S7hwby8C9GvgRYkh6Hh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
